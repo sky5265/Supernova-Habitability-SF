@@ -31,6 +31,21 @@ In short, in the Milky Way galaxy, how many supernovae would have to go off, and
 galaxy, you get a supernova flux if 1361 W/m^2?
 
 
+I think because this is a HS SF project, it is okay to make a lot of approximations and work towards an answer, but I also want to focus on at least
+one aspect of the project, and make that much more accurate than the others. For example, I am happy to approximate that:
+	1) a location in the galaxy is habitable if it gets 1361 W/m^2
+	2) supernovae are evenly distributed throughout the galaxy
+	3) dust extinction doesn't matter
+	4) a planet can form anywhere in the galaxy
+
+But, I'd like to put a significantly more detail into the actual supernova aspect of the project. For example, we can take actual SNe light curves and 
+account for their actual shape and evolution in time, rather than just approximate that all supernovae have a luminosity of 10^40 erg/s for 50 days or 
+whatever. We can also account for the diversity of supernovae that go off, like most SNe are type-ia, then we have type-ii, and so on. Then maybe also
+account for the spectrum of the supernova. Like, talk about if flux on this planet is dominated by SNe, then where in the EM spectrum would it peak, and
+what light would be most common on the surface of this planet. 
+
+
+
 
 To introduce this project, we will have a series of labs that will introduce the background science and CS concepts necessary to carry out 
 this project. These concepts are listed below:
