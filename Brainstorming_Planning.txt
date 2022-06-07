@@ -44,7 +44,15 @@ whatever. We can also account for the diversity of supernovae that go off, like 
 account for the spectrum of the supernova. Like, talk about if flux on this planet is dominated by SNe, then where in the EM spectrum would it peak, and
 what light would be most common on the surface of this planet. 
 
-
+One thing that might become important in this project is-once everything is set up, and the student is messing around with how many supernovae go off (N)
+and how frequently they go off (T), they might end up having to do a 2-parameter fit. It won't necessarily need to be super accurate, but we might need to
+do something more fancy, or at least talk about how to vary N and T until the magic 1361 W/m^2 is found. I haven't done this project on my own yet (and I 
+will soon), but I imagine this problem might happen:
+	
+	If our flux is too low, say 1000 W/m^2, then I could try to increase the flux by increasing N. This way, more supernovae go off, increasing the flux,
+but if more go off at the same frequency as before, we may get the flux up to the required amount, but the flux itself might change too much over time. For 
+example, if 1000 supernovae go off every 10 years. Then, this might result in getting 2000 W/m^2 half of the time, and 600 W/m^2 half of the time, so the 
+average is close to our 1361 W/m^2, but it isn't useful because the actual flux is almost never that value. 
 
 
 To introduce this project, we will have a series of labs that will introduce the background science and CS concepts necessary to carry out 
@@ -87,5 +95,13 @@ Stats
 	Uniform Distributions
 	Exponential Distribution
 	Randomly Sampling from a distribution
+
+=CS Concepts=
+
+Functions
+
+How to randomly sample using numpy
+
+Other..stuff...
 
 
