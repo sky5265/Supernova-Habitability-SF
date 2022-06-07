@@ -1,0 +1,57 @@
+This one would probably be about flux and luminosity
+
+---
+When we look out in space, what we see are many many sources of light. 
+Specifically, sources of electromagnetic radiation. EM radiation can be in 
+any wavelength, ranging from Radio to microwave to IR, all the way up to 
+gamma radiation. Radio is the longest wavelength, lowest frequency radiation and Gamma is 
+the shortest-wavelength, highest-frequency radiation
+
+[maybe have some figure showing the EM spectrum]
+
+Energy of light scales with frequency
+[show E=hf and maybe link to something that talks about the wave-particle 
+duality]
+---
+
+So now, imagine a source of radiation in space-like a star or something. 
+[picture of a nice bright star-probably just stick with our Sun]
+
+The picture above is probably the star that you are most familiar with. 
+It's our Sun! Our Sun has a luminosity (total brightness) of --- W. This 
+is as bright as --- flashlights [or use some other benchmark of 
+brightness]. So, it puts out this much energy in total, but we only get a 
+little bit of it. This is something you've seen before too! Imagine a 
+car's headlight-when it's really far away, it appears much dimmer than 
+when it's up close [show a picture of that too].
+So when we talk about how bright things actually are in the sky versus
+how bright they seem to be to us, we need to account for how far away they 
+are. 
+
+Let's now draw a distinction between Luminosity and flux. Luminosity is 
+the total power output of an object. This is the total amount of energy 
+(measured in units of J, for Joules) that's being emitted per second (s). 
+So, lumionsity is the total power output of an object measured in Joules 
+per second. J/s is also called a Watt. You might have seen a light bulb 
+that puts out 60 Watts of power. That means the light bulb is putting out 
+60 Joules of energy every second through the light it gives off. 
+[picture of a light bulb]
+
+Now, imagine all of that energy that's emitted by the bulb. The bulb is 
+equally bright in every direction. This means it is an isotropic 
+emitter-it emits equally in all direction. So, imagine all of that energy 
+as it moves away from the central light bulb. The further this light gets 
+from the light bulb the more area all of this energy has to travel 
+through. At a distance d from the light bulb, the energy emitted by the 
+light bulb must travel through a total area equal to the surface area of a 
+sphere centered on the bulb with radius equal to d. [draw pictures and 
+animations of this]. So, the flux that you get per unit area along this 
+sphere would be L/4*pi*d^2.
+
+Imagine our Sun's light and the Earth receiving this light. Stars are also 
+isotropic emitters, so the whole analogy with the light bulb works. All of 
+the power that the sun emits must travel through a sphere whose radius 
+equals the distance from the Earth to the Sun. [show a picture] So, the 
+flux from the Sun that would be detected on the Earth would be 
+L_\odot/4*pi*(1AU)^2. If we had a detector on the Earth that was 1m x 1m, 
+it would detect a flux of L_\odot/4*pi*(1AU)^2 * (1m)^2 = --. 
