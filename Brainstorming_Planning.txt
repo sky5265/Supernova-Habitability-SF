@@ -64,6 +64,13 @@ and skipping the lab. By design, each lab should take ~3 hrs for a high school s
 30 minutes to do).
 
 
+The series of labs will eventually be available to anyone publicly through my website: https://sites.psu.edu/karthikyadavalli/
+and so if students (or honestly anyone with some interest in astronomy) want to work on these labs and get a more in-depth introduction to the concepts of 
+astronomy, they can do so. The labs are not necessarily tied down to the science fair project. 
+
+By design, these labs will be available to be run on the internet with no extra installation for the student. This website: https://mybinder.org/ allows one to run notebooks
+that are on github directly in the browser with little to no debugging or IT support from the user. I have yet to fully play with this software, so it may still be buggy.
+
 
 ==Background Concepts==
 
